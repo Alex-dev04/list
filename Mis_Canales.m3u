@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1,009 Cartoon Network HD
+http://170.79.235.29:8000/play/009
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="Undefined",Televisa Veracruz (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Undefined",Televisa Zacatecas (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",teleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="Undefined",Televisa Del Golfo
+https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Undefined",Televisa Guadalajara (1080p)
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-logo="https://i.imgur.com/NzSN2jI.png" group-title="Undefined",Televisa Noreste (480p) [Not 24/7]
+https://ythls.onrender.com/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-logo="https://i.imgur.com/MNqBa1f.png" group-title="Undefined",Televisa Piedras Negras (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1,014 Nick HD
+http://170.79.235.29:8000/play/014
+
+#EXTINF:-1,DISNEY CHANNEL
+http://179.1.64.211:8000/play/a023/index.m3u8
+
+
+#EXTINF:-1,107 Cinecanal HD
+http://170.79.235.29:8000/play/107
+
+#EXTINF:-1,083 STAR CHANNEL HD
+http://170.79.235.29:8000/play/083
+
+#EXTINF:-1,081 Warner Channel HD
+http://170.79.235.29:8000/play/081
+
+#EXTINF:-1,SONY
+http://179.1.64.211:8000/play/a01v/index.m3u8
+
+#EXTINF:-1,TNT
+http://179.1.64.211:8000/play/a028/index.m3u8
+
+#EXTINF:-1,Dragon ball 24/7
+http://198.50.245.218:8080/lilly1/lilly1/79572
+
+#EXTINF:-1,Distrito Comedia
+http://45.182.21.251:33334/play/a07n/index.m3u8
+
+//ADULT
+
+#EXTINF:-1,[+18] ADULTO 01
+http://lxls.mx:80/Ederb13/g9dtyd5u/262588
+
+#EXTINF:-1,[+18] ADULTO 02
+http://lxls.mx:80/Ederb13/g9dtyd5u/262591
+
+#EXTINF:-1,[+18] Brasileirinhas: AGORA E HORA DAS PODEROSAS
+http://lxls.mx:80/Ederb13/g9dtyd5u/262594
